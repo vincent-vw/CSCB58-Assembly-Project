@@ -28,10 +28,11 @@
 # ----- Total: 10 marks -----
 #
 # Link to video demonstration for final submission:
-# - (insert YouTube / MyMedia / other URL here). Make sure we can view it! 
+# https://youtu.be/Iq66YQtSQVE
 #
 # Are you OK with us sharing the video with people outside course staff?
-# - yes / no / yes, and please share this project github link as well!
+# - Yes!
+# https://github.com/vincent-vw/CSCB58-Assembly-Project
 #
 # Any additional information that the TA needs to know:
 # - Fast fingers recommended :)
